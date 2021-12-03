@@ -1,0 +1,28 @@
+<div class="container p-4 ">
+    <div class="row">
+        {{!-- Voy a aceptar unicamente este enlace de las listas{links} --}}
+        {{#each links}}
+            <div class="col-md-3">
+                <div class="card text-center bg-secondary text-light">
+                    <div class="card-body">
+                        <a href="{{url}}" target="_blank" class="text-light">
+                            <h3 class="card-title">
+                                {{title}}
+                            </h3>
+                        </a>
+                        <p class="m-2">{{description}}</p>
+                        <a href="/links/delete/{{id}}" class="btn btn-danger">Eliminar</a>
+                        <a href="/links/edit/{{id}}" class="btn btn-success">Modificar</a>
+                    </div>
+                </div>
+            </div>
+        {{else}}
+        <div class="col-md-4 mx-auto">
+            <div class="card card-body text-center bg-dark text-light">
+                <p>No tienes enlaces guardados</p>
+                <a href="/links/add" class="btn btn-success">Crear enlace</a>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</div>
