@@ -34,16 +34,11 @@ app.listen(app.get('port'), () => {
     console.log('Server ON in port', app.get('port'));
 });
 ```  
-## Project Screens
-![Home](https://github.com/IvanSebastian21/InterestApp-Login-ApiRest/blob/main/Project_nodeJS_express_CRUD/src/public/img/localhost.png)
-![Home](https://github.com/IvanSebastian21/InterestApp-Login-ApiRest/blob/main/Project_nodeJS_express_CRUD/src/public/img/register.png)
-![Home](https://github.com/IvanSebastian21/InterestApp-Login-ApiRest/blob/main/Project_nodeJS_express_CRUD/src/public/img/Captura%20de%20pantalla%20(191).png)
-![Home](https://github.com/IvanSebastian21/InterestApp-Login-ApiRest/blob/main/Project_nodeJS_express_CRUD/src/public/img/cards.png)  
 
-<h3><strong> Lenguajes: Backend <strong></h3>
-    <h2>
-     Javascript <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"/>  |
-     Node Js <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268343/readme/pngwing.com_9_nptorj.png"/> |
-     Express <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268180/readme/pngwing.com_5_mtcqjs.png"/> | MySQL <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/800px-Mysql.svg.png"/> | 
-     bcryptjs <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackjava.com%2Fcategory%2Fdemo&psig=AOvVaw15VHc3Z4lq-V95OpdXjgcX&ust=1638672700565000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCWo9iRyfQCFQAAAAAdAAAAABAD"
-     <h2>
+<h3> Contacto: <h3> <img align='right' src="https://user-images.githubusercontent.com/85074756/140621760-a092acaa-bb99-41b2-bc4f-b2d30283fbf2.jpeg" width="180" height="195">
+    <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target= "_blank">
+     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">
+    </a><br>
+ <h3> Puedes escribirme a: ivanseba.nez20@gmail.com <h3>
+ <br><br>
+Saludos!
