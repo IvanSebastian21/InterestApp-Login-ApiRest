@@ -1,5 +1,5 @@
 # Aplicacion Web: Frontend + Backend
-[_Enlace_](https://www.linkedin.com/feed/update/urn:li:activity:6872386352856543232/)
+[_Enlace_](https://www.linkedin.com/feed/update/urn:li:activity:6852376614311931904/)
 ## ¿En que consiste la App?  
 1) Crea una tarjeta con todos aquellos enlaces que creas valiosos y útiles.  
 2) Podes agregar un titulo para que puedas identificar el contenido mas rápido.  
